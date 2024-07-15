@@ -14,13 +14,13 @@ Este projeto é um jogo de caça-palavras em C++ que permite ao usuário criar, 
 
 ## Como usar
 
-1. Certifique-se de ter um arquivo CSV chamado `trabalhom3.csv` com as listas de palavras.
+1. Certifique-se de ter um arquivo CSV chamado `searchgame.csv` com as listas de palavras.
 2. Compile e execute o programa.
 3. Siga as instruções no menu para interagir com o jogo.
 
 ## Estrutura do arquivo CSV
 
-O arquivo `trabalhom3.csv` deve conter listas de palavras separadas por ponto e vírgula `;`, onde cada linha representa uma lista.
+O arquivo `searchgame.csv` deve conter listas de palavras separadas por ponto e vírgula `;`, onde cada linha representa uma lista.
 
 ## Dependências
 
